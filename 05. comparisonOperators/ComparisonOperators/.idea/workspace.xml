@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="41bd48a1-fef7-4f4f-9ed2-61c16d86d48d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../05. isElse/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../05. isElse/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../05. isElse/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../05. isElse/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../05. isElse/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../05. isElse/isElse.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../05. isElse/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../05. isElse/untitled/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../05. isElse/untitled/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../05. isElse/untitled/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../05. isElse/untitled/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../05. isElse/untitled/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../05. isElse/untitled/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../05. isElse/untitled/untitled.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="2OaLoixuEiC5xjciD2h9Goq9oEF" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "onboarding.tips.debug.path": "/home/voj/Courses/Java/Basic/ComparisonOperators/ComparisonOperators/src/Main.java"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="41bd48a1-fef7-4f4f-9ed2-61c16d86d48d" name="Changes" comment="" />
+      <created>1681793923984</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1681793923984</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
